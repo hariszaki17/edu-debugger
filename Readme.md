@@ -121,8 +121,13 @@ oke sekarang kita mendegar istilah baru lagi, debugger. Kalau sebelumnya kita bi
 
 Debugger berfungsi untuk membantu programmer untuk melakukan tracing pada kode yang dijalankan. tracing meliputi evaluasi control flow, monitoring perubahan data, dan masih banyak lagi fitur-fitur bermanfaat lainnya.
 
+https://www.lambdatest.com/blog/reference-error-javascript/#:~:text=When%20any%20value%20is%20assigned,%22x%22%20in%20strict%20mode.
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unexpected_token
 
+https://www.geeksforgeeks.org/difference-between-compile-time-errors-and-runtime-errors/
+
+https://www.inf.unibz.it/~calvanese/teaching/06-07-ip/lecture-notes/uni10/node2.html
 
 
 
